@@ -1,0 +1,2 @@
+自动打包命令
+pyinstaller -D -F  D:\\workProject\pthon\autoPunch\autoPunch_weixin.py  
